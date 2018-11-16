@@ -1,0 +1,17 @@
+{
+  "name": "Thanksgiving_Project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brad Mortensen <b.mort86@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "knex": "^0.15.2",
+    "sqlite3": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
